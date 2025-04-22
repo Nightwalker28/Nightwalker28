@@ -1,15 +1,34 @@
-# Hi, I'm Maad
+<h1 align="center">Hi 👋, I'm Maad Mustafa</h1>
+<h3 align="center">Lazy. Curious. Witty.</h3>
 
-### Curiosity, Coffee & Collaboration.
+I'm a passionate Junior Software Engineer dedicated to building impactful solutions through clean, efficient, and user-centric code. I specialize in Python, Flask, SQL, and automation scripts, with hands-on experience in optimizing applications for robust performance and scalability.
 
-- 👨‍💻 Junior DevOps Engineer @ Acumen Intelligence  
-- 🎓 Computer Science @ University of Westminster  
-- 💻 Daily: Python & TypeScript (Streamlit apps & email builders) :contentReference[oaicite:0]{index=0}
-- 🌱 Currently exploring Docker, CI/CD & cloud networking  
-- ❤️ Open‑source spotlight:  
-  - [F5](https://github.com/Nightwalker28/F5) — f5 campaign :contentReference[oaicite:1]{index=1}  
-  - [streamlit-example](https://github.com/Nightwalker28/streamlit-example) — Example Streamlit app :contentReference[oaicite:2]{index=2}  
-  - [email-builder](https://github.com/Nightwalker28/email-builder) — Block‑based email template builder :contentReference[oaicite:3]{index=3}  
-- 📫 Let’s connect:  
-  - LinkedIn: [maad‑mustafa](https://www.linkedin.com/in/maad-mustafa)  
-  - Discord: Nightwalker28#1234  
+When I'm not coding, you can usually find me immersed in anime, enjoying gaming sessions, or exploring underwater adventures through scuba diving.
+
+- 🌱 I’m currently learning **Docker, CI/CD Automation & Cloud Networking**
+
+- 🔭 I’m currently working on [Valid8](https://thevalid8.com/) 
+
+- 📝 I regularly write articles on [Dev.to](https://dev.to/nightwalker28)
+
+- 💬 Ask me about **Python, SQL, Scuba Diving**
+
+- 📫 How to reach me **maadmustafa28@gmail.com**
+
+- ⚡ Fun fact **I go underwater to avoid small talk.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/nightwalker28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nightwalker28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maad-mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maad-mustafa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22500950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22500950" height="30" width="40" /></a>
+<a href="https://instagram.com/maad_4570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maad_4570" height="30" width="40" /></a>
+<a href="https://discord.gg/nightwalker28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nightwalker28" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightwalker28&show_icons=true&theme=dracula&title_color=79dafa&locale=en&layout=compact" alt="nightwalker28" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightwalker28&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="nightwalker28" /></p>
