@@ -11,7 +11,7 @@ When I'm not coding, you can usually find me immersed in anime, enjoying gaming 
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/nightwalker28)
 
-- 💬 Ask me about **Python, SQL, Scuba Diving**
+- 💬 Ask me about **Python, SQL & Scuba Diving**
 
 - 📫 How to reach me **maadmustafa28@gmail.com**
 
