@@ -25,6 +25,7 @@ When I'm not coding, you can usually find me immersed in anime, enjoying gaming 
 <a href="https://discord.gg/nightwalker28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nightwalker28" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -57,7 +58,7 @@ When I'm not coding, you can usually find me immersed in anime, enjoying gaming 
 
 
 
-# Blog posts
+<h3 align="left">Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
