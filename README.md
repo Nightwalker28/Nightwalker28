@@ -70,11 +70,3 @@ When I'm not coding, you can usually find me immersed in anime, enjoying gaming 
 - [How to Create Your Free Landing Page](https://dev.to/nightwalker28/how-to-create-your-free-landing-page-22e1)
 - [From Uni to Dev Life: What They Don’t Teach You](https://dev.to/nightwalker28/from-uni-to-dev-life-what-they-dont-teach-you-2plf)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightwalker28&show_icons=true&theme=dracula&title_color=79dafa&locale=en&layout=compact" alt="nightwalker28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightwalker28&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="nightwalker28" /></p>
