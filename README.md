@@ -64,9 +64,9 @@ When I'm not coding, you can usually find me immersed in anime, enjoying gaming 
 <h3 align="left">Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting Didn’t Replace the Cloud. It Changed How I See It](https://dev.to/nightwalker28/self-hosting-didnt-replace-the-cloud-it-changed-how-i-see-it-1jfe)
 - [When CI/CD Starts Feeling Wrong](https://dev.to/nightwalker28/when-cicd-starts-feeling-wrong-55go)
 - [Building a NAS: Privacy, Projects, and Practicality](https://dev.to/nightwalker28/building-a-nas-privacy-projects-and-practicality-3cid)
 - [Docker vs Traditional Hosting](https://dev.to/nightwalker28/docker-vs-traditional-hosting-28c7)
 - [From Localhost to Live](https://dev.to/nightwalker28/from-localhost-to-live-2e4f)
-- [How to Create Your Free Landing Page](https://dev.to/nightwalker28/how-to-create-your-free-landing-page-22e1)
 <!-- BLOG-POST-LIST:END -->
