@@ -64,9 +64,10 @@ When I'm not coding, you can usually find me immersed in anime, enjoying gaming 
 <h3 align="left">Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Been thinking a lot about self-hosting vs the cloud — not in a “this is better” way, but in a “this changed how I think” way.
+Wrote a short blog post about what running my own infrastructure taught me, and why it made me respect managed services more, not](https://dev.to/nightwalker28/been-thinking-a-lot-about-self-hosting-vs-the-cloud-not-in-a-this-is-better-way-but-in-a-this-55dg)
 - [Self-Hosting Didn’t Replace the Cloud. It Changed How I See It](https://dev.to/nightwalker28/self-hosting-didnt-replace-the-cloud-it-changed-how-i-see-it-1jfe)
 - [When CI/CD Starts Feeling Wrong](https://dev.to/nightwalker28/when-cicd-starts-feeling-wrong-55go)
 - [Building a NAS: Privacy, Projects, and Practicality](https://dev.to/nightwalker28/building-a-nas-privacy-projects-and-practicality-3cid)
 - [Docker vs Traditional Hosting](https://dev.to/nightwalker28/docker-vs-traditional-hosting-28c7)
-- [From Localhost to Live](https://dev.to/nightwalker28/from-localhost-to-live-2e4f)
 <!-- BLOG-POST-LIST:END -->
